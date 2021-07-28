@@ -65,3 +65,9 @@ main .about h5 a {
         font-size: 4rem;
     }
 }
+
+@media only screen and (min-width: 551px) and (max-width: 991px){
+    .f-card {
+        width: 427px;
+    }
+}
